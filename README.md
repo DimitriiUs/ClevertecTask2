@@ -11,9 +11,10 @@
 Execute following command-line:\
 On Windows:
 ```
-./gradle publishToMavenLocal
+./gradle pTML
 ```
 On Linux:\
 ```
-gradle publishToMavenLocal
+chmod +x gradlew
+./gradle pTML
 ```
